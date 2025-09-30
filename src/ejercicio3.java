@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class ejercicio3 {
-    public static void main(String[] argas){
+    public static void main(String[] args){
         Scanner datos=new Scanner(System.in);
         System.out.println("Ingrese su edad: ");
         int edad=datos.nextInt();
