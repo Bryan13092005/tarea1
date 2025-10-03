@@ -28,4 +28,4 @@ public class ejercicio2 {
         }
         System.out.println("\nMOSTRANDO DATOS\nNOMBRE: "+nombre+"\nID: "+id+"\nCELULAR: "+celular+"\nCORREO ELECTRÓNICO: "+email);
     }
-}
+}//PRUEBA DE COMMITS BRYAN
